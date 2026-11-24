@@ -51,7 +51,6 @@ I’m passionate about improving test automation strategies, strengthening produ
   <img src="https://img.shields.io/badge/Postman-020617?style=flat-square&logo=postman&logoColor=4ADE80" alt="Postman" />
   <img src="https://img.shields.io/badge/JMeter-020617?style=flat-square&logo=apachejmeter&logoColor=4ADE80" alt="JMeter" />
   <img src="https://img.shields.io/badge/Salesforce-020617?style=flat-square&logo=salesforce&logoColor=4ADE80" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-020617?style=flat-square&logo=visualstudiocode&logoColor=4ADE80" alt="Visual Studio Code" />
 </p>
 
 ---
